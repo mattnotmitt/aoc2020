@@ -40,3 +40,9 @@ add_subdirectory(utils)
 
 # day1
 add_subdirectory(day1)
+
+# day2
+add_subdirectory(day2)
+
+# day3
+add_subdirectory(day3)
